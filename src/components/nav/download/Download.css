@@ -1,0 +1,58 @@
+.download {
+    width: 100%;
+    max-width: 1500px;
+    height: 272px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.download__card {
+    width: 360px;
+    height: 272px;
+    padding: 30px;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.03);
+}
+
+.download__img {
+    margin-bottom: 26px;
+}
+
+.download__title {
+    color: #00194A;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 15px;
+}
+
+.download__text {
+    color: #00194A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 26px;
+    margin-bottom: 21px;
+}
+
+.download__small {
+    color: #00194A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    opacity: 0.4991;
+}
+
+.download__small > svg{
+    margin-left: 152px;
+    color: #FF0043;
+    opacity: 1;
+}

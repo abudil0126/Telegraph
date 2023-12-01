@@ -1,0 +1,35 @@
+.comments {
+    width: 100%;
+    max-width: 1500px;
+    height: 635px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.comments__info {
+    width: 466px;
+    height: 326px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 130px;
+}
+
+.comments__title {
+    color: #00194A;
+    font-family: Roboto;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    margin-bottom: 30px;
+}
+
+.comments__text {
+    color: #00194A;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    opacity: 0.8;
+}

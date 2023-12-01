@@ -1,0 +1,18 @@
+{
+    "nav__btn" : "Beta versiyani ishlatish",
+
+    "header" : {
+        "title" : "Oson. Xavfsiz. Ishonchli xabarlar.",
+        "text" : "O'quvchi sahifaning tartibini ko'rib chiqayotganda uning o'qilishi mumkin bo'lgan mazmuni bilan chalg'itishi uzoq vaqtdan beri tasdiqlangan haqiqatdir. Lorem Ipsumdan foydalanish nuqtasi.",
+        "btn" : "Erta kirish so'rovi"
+    },
+    "download" : {
+        "text" : "Lorem Ipsum matbaa va matn terish sanoatining oddiygina soxta matnidir.",
+        "small" : "Beta versiyasini bepul sinab ko'ring"
+    },
+    "comments" : {
+        "title" : "Haqiqiy vaqtda oddiy, moslashtirilgan xabarlar",
+        "text" : "Lorem Ipsum parchalarining ko'plab variantlari mavjud, ammo ularning aksariyati biron bir shaklda, in'ektsion hazil yoki tasodifiy so'zlar bilan o'zgartirilgan, ular hatto biroz ishonarli ko'rinmaydi.",
+        "text2" : "Agar siz Lorem Ipsum parchasidan foydalanmoqchi bo'lsangiz, hech narsa etishmayotganiga ishonch hosil qilishingiz kerak."
+    }
+}
